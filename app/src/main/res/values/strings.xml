@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Week1__task</string>
+    <string name="cannot_convert_for_the_same_unit">Cannot convert for the same unit</string>
+</resources>

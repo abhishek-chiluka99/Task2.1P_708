@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversionUnits">
+        <item>centimeter</item>
+        <item>yard</item>
+        <item>foot</item>
+        <item>inch</item>
+        <item>kilogram</item>
+        <item>gram</item>
+        <item>pound</item>
+        <item>ounce</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+</resources>
